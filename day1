@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!-- tells browser you are using HTML 5 -->
+<html lang="en">
+    <!-- lang attribute.....en=english -->
+<!-- root of an html document -->
+<head>
+ <!-- container for metadata -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TypeScript</title>
+    
+</head>
+<body>
+    <h1> Hello World! </h1>
+    <h2> hey !!</h2>
+    <h3> heyy !!!!</h3>
+    <p> this is paragraph this is paragraph this is paragraph this is paragraph </p>
+    <br>
+    <!-- break tag - brngs in next line-->
+    <a href ="https://web.whatsapp.com/ "> whatsapp </a>
+    <br>
+    <a href ="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"> striver</a>
+    <!-- href is a attribute -->
+    <!-- anchor tag - used to add link in page -->
+    <br>
+    <a href="hello.html">Go to hello</a>
+    <img src=""
+</body> 
+</html>
+<!-- Attibutes -->
+<!--  -->
